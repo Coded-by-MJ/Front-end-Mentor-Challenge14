@@ -32,8 +32,8 @@ Users should be able to:
 ![Mobile View](images/mobile.png)
 
 ### Links
-- Solution URL: [Click to view Solution](https://www.frontendmentor.io/solutions/time-tracking-dashboard-solution-using-css-grid-MX_ntr65HI)
-- Live Site URL: [Click to view Live Site](https://coded-by-mj.github.io/Front-end-Mentor-Challenge13/)
+- Solution URL: [Click to view Solution](https://www.frontendmentor.io/solutions/ip-address-tracker-using-geolocation-api-7_m3AdVcUQ)
+- Live Site URL: [Click to view Live Site](https://coded-by-mj.github.io/Front-end-Mentor-Challenge14/)
 
 
 ## My process
